@@ -51,12 +51,19 @@ https://github.com/deshanahan/Karachi_Load_Shedding_Blame_Game
 
 # Software Requirements
 This program uses:
+
 Python programming language
+
 jupyter notebook
+
 Twitter API keys from an imported module contained in a .gitignore file 
+
 Python built-in datetime module
+
 python-twitter module (Twitter API Python wrapper)
+
 pandas module
+
 numpy module
 
 # Data
